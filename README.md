@@ -19,7 +19,7 @@
 git clone https://github.com/BoCoder17/sockets.git
 ```
 ```bash
-cd sockets
+cd mysockets
 ```
 **2. Запустите сервер:**
 
